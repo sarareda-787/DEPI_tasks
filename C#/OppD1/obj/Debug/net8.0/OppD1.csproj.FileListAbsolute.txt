@@ -1,0 +1,14 @@
+C:\بدايه الرحله\C#\practice C#\OppD1\bin\Debug\net8.0\OppD1.exe
+C:\بدايه الرحله\C#\practice C#\OppD1\bin\Debug\net8.0\OppD1.deps.json
+C:\بدايه الرحله\C#\practice C#\OppD1\bin\Debug\net8.0\OppD1.runtimeconfig.json
+C:\بدايه الرحله\C#\practice C#\OppD1\bin\Debug\net8.0\OppD1.dll
+C:\بدايه الرحله\C#\practice C#\OppD1\bin\Debug\net8.0\OppD1.pdb
+C:\بدايه الرحله\C#\practice C#\OppD1\obj\Debug\net8.0\OppD1.GeneratedMSBuildEditorConfig.editorconfig
+C:\بدايه الرحله\C#\practice C#\OppD1\obj\Debug\net8.0\OppD1.AssemblyInfoInputs.cache
+C:\بدايه الرحله\C#\practice C#\OppD1\obj\Debug\net8.0\OppD1.AssemblyInfo.cs
+C:\بدايه الرحله\C#\practice C#\OppD1\obj\Debug\net8.0\OppD1.csproj.CoreCompileInputs.cache
+C:\بدايه الرحله\C#\practice C#\OppD1\obj\Debug\net8.0\OppD1.dll
+C:\بدايه الرحله\C#\practice C#\OppD1\obj\Debug\net8.0\refint\OppD1.dll
+C:\بدايه الرحله\C#\practice C#\OppD1\obj\Debug\net8.0\OppD1.pdb
+C:\بدايه الرحله\C#\practice C#\OppD1\obj\Debug\net8.0\OppD1.genruntimeconfig.cache
+C:\بدايه الرحله\C#\practice C#\OppD1\obj\Debug\net8.0\ref\OppD1.dll

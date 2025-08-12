@@ -1,0 +1,14 @@
+C:\بدايه الرحله\C#\practice C#\Simple calculator\bin\Debug\net8.0\Simple calculator.exe
+C:\بدايه الرحله\C#\practice C#\Simple calculator\bin\Debug\net8.0\Simple calculator.deps.json
+C:\بدايه الرحله\C#\practice C#\Simple calculator\bin\Debug\net8.0\Simple calculator.runtimeconfig.json
+C:\بدايه الرحله\C#\practice C#\Simple calculator\bin\Debug\net8.0\Simple calculator.dll
+C:\بدايه الرحله\C#\practice C#\Simple calculator\bin\Debug\net8.0\Simple calculator.pdb
+C:\بدايه الرحله\C#\practice C#\Simple calculator\obj\Debug\net8.0\Simple calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\بدايه الرحله\C#\practice C#\Simple calculator\obj\Debug\net8.0\Simple calculator.AssemblyInfoInputs.cache
+C:\بدايه الرحله\C#\practice C#\Simple calculator\obj\Debug\net8.0\Simple calculator.AssemblyInfo.cs
+C:\بدايه الرحله\C#\practice C#\Simple calculator\obj\Debug\net8.0\Simple calculator.csproj.CoreCompileInputs.cache
+C:\بدايه الرحله\C#\practice C#\Simple calculator\obj\Debug\net8.0\Simple calculator.dll
+C:\بدايه الرحله\C#\practice C#\Simple calculator\obj\Debug\net8.0\refint\Simple calculator.dll
+C:\بدايه الرحله\C#\practice C#\Simple calculator\obj\Debug\net8.0\Simple calculator.pdb
+C:\بدايه الرحله\C#\practice C#\Simple calculator\obj\Debug\net8.0\Simple calculator.genruntimeconfig.cache
+C:\بدايه الرحله\C#\practice C#\Simple calculator\obj\Debug\net8.0\ref\Simple calculator.dll

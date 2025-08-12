@@ -1,0 +1,14 @@
+C:\بدايه الرحله\C#\practice C#\Day1\bin\Release\net8.0\Day1.exe
+C:\بدايه الرحله\C#\practice C#\Day1\bin\Release\net8.0\Day1.deps.json
+C:\بدايه الرحله\C#\practice C#\Day1\bin\Release\net8.0\Day1.runtimeconfig.json
+C:\بدايه الرحله\C#\practice C#\Day1\bin\Release\net8.0\Day1.dll
+C:\بدايه الرحله\C#\practice C#\Day1\bin\Release\net8.0\Day1.pdb
+C:\بدايه الرحله\C#\practice C#\Day1\obj\Release\net8.0\Day1.GeneratedMSBuildEditorConfig.editorconfig
+C:\بدايه الرحله\C#\practice C#\Day1\obj\Release\net8.0\Day1.AssemblyInfoInputs.cache
+C:\بدايه الرحله\C#\practice C#\Day1\obj\Release\net8.0\Day1.AssemblyInfo.cs
+C:\بدايه الرحله\C#\practice C#\Day1\obj\Release\net8.0\Day1.csproj.CoreCompileInputs.cache
+C:\بدايه الرحله\C#\practice C#\Day1\obj\Release\net8.0\Day1.dll
+C:\بدايه الرحله\C#\practice C#\Day1\obj\Release\net8.0\refint\Day1.dll
+C:\بدايه الرحله\C#\practice C#\Day1\obj\Release\net8.0\Day1.pdb
+C:\بدايه الرحله\C#\practice C#\Day1\obj\Release\net8.0\Day1.genruntimeconfig.cache
+C:\بدايه الرحله\C#\practice C#\Day1\obj\Release\net8.0\ref\Day1.dll

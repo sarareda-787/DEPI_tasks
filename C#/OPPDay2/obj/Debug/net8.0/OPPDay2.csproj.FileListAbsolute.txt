@@ -1,0 +1,14 @@
+C:\Users\moham\source\repos\OPPDay2\bin\Debug\net8.0\OPPDay2.exe
+C:\Users\moham\source\repos\OPPDay2\bin\Debug\net8.0\OPPDay2.deps.json
+C:\Users\moham\source\repos\OPPDay2\bin\Debug\net8.0\OPPDay2.runtimeconfig.json
+C:\Users\moham\source\repos\OPPDay2\bin\Debug\net8.0\OPPDay2.dll
+C:\Users\moham\source\repos\OPPDay2\bin\Debug\net8.0\OPPDay2.pdb
+C:\Users\moham\source\repos\OPPDay2\obj\Debug\net8.0\OPPDay2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moham\source\repos\OPPDay2\obj\Debug\net8.0\OPPDay2.AssemblyInfoInputs.cache
+C:\Users\moham\source\repos\OPPDay2\obj\Debug\net8.0\OPPDay2.AssemblyInfo.cs
+C:\Users\moham\source\repos\OPPDay2\obj\Debug\net8.0\OPPDay2.csproj.CoreCompileInputs.cache
+C:\Users\moham\source\repos\OPPDay2\obj\Debug\net8.0\OPPDay2.dll
+C:\Users\moham\source\repos\OPPDay2\obj\Debug\net8.0\refint\OPPDay2.dll
+C:\Users\moham\source\repos\OPPDay2\obj\Debug\net8.0\OPPDay2.pdb
+C:\Users\moham\source\repos\OPPDay2\obj\Debug\net8.0\OPPDay2.genruntimeconfig.cache
+C:\Users\moham\source\repos\OPPDay2\obj\Debug\net8.0\ref\OPPDay2.dll
